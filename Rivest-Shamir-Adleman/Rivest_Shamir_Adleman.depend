@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1713224117 source:c:\users\mas\documents\codeblocks\software security assignments\assignment_1\20206074_swe_s4\rivest_shamir_adleman\main.cpp
+	<iostream>
+	<cmath>
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
